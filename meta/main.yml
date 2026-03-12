@@ -1,0 +1,14 @@
+galaxy_info:
+  author: abdulrahmanx9
+  description: Nginx deployment with custom port and vaulted secrets
+  company: none
+  license: MIT
+  min_ansible_version: 2.1
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - web
+    - nginx
+dependencies: []
